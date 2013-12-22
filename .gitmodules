@@ -1,0 +1,3 @@
+[submodule "modules/easywebdav"]
+	path = modules/easywebdav
+	url = git@github.com:treibholz/easywebdav.git
